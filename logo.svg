@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="132" viewBox="0 0 132 132">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #df8181;
+      }
+
+      .cls-2 {
+        font-size: 150px;
+        fill: #fff;
+        font-family: "Arial Rounded MT Bold";
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" width="132" height="132" rx="10" ry="10"/>
+  <text id="t" class="cls-2" x="19.602" y="113.992">t</text>
+  <text id="f" class="cls-2" x="55.227" y="123.809">f</text>
+</svg>
